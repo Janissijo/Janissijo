@@ -12,9 +12,6 @@
 - 🎓 Computer Science student specializing in Data Science
 - 💡 Passionate about AI/ML and predictive modeling
 - 🌱 Always exploring new technologies
-- 👯 Open to collaborations in AI, ML, and Data Science projects
-
-
 
 ### Areas of Interest
 
