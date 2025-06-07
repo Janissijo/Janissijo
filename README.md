@@ -33,5 +33,5 @@
 
 
 ---
-<p align="center">⭐️ From Janissijo</p>
+
 <p align="center">⭐️ From <a href="https://github.com/Janissijo">Janissijo</a></p>
